@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my Capstone project: discloser<br>👯 I’m looking to collaborate with developers in sex and health tech<br>🤝 I’m looking for help with all things PDF parsing<br>💬 Ask me about my career goals
+🔭 I’m currently working on my Capstone project: _[discloser](https://github.com/nameisbri/discloser)_<br>👯 I’m looking to collaborate with developers in sex and health tech<br>🤝 I’m looking for help with all things PDF parsing<br>💬 Ask me about my career goals
 
 
 ## 🌐 Socials:
