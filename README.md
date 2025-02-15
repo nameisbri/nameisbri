@@ -40,4 +40,4 @@ I'm passionate about innovation in healthcare technology and always eager to col
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gcdbarreira@gmail.com)
 
 ---
-*Currently completing the Software Engineering Bootcamp at BrainStation. Open to opportunities and collaborations in healthcare technology.*
+*Currently completing the Software Engineering Bootcamp at BrainStation. Open to opportunities and collaborations in any industry.*
