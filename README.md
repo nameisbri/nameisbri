@@ -1,15 +1,21 @@
 # Hello, I'm Gabriela! 👋
 
 ## 💫 About Me
-Full-stack developer with a unique background blending 8 years of marketing experience with technical expertise. I'm passionate about creating user-centric applications with meaningful impact, particularly in health tech. Recently graduated from BrainStation's Software Engineering program, I'm now seeking remote/hybrid opportunities to build solutions that make a difference.
+Full-stack developer with a unique background blending 8 years of marketing experience with technical expertise. I'm passionate about creating user-centric applications with meaningful impact. Recently graduated from BrainStation's Software Engineering program, I'm now seeking remote/hybrid opportunities to build innovative solutions across various industries.
 
-## 🚀 Current Focus: Health Tech Solutions
+## 🚀 Current Focus:
 I'm developing [Discloser](https://github.com/nameisbri/discloser), a platform that securely manages and shares health information through:
 - 🔒 Secure document handling with OCR extraction
-- 📊 Data visualization and health metrics tracking
-- 🔔 Smart notification systems and risk-based reminders
+- 📊 Data visualization and analytics
+- 🔔 Smart notification systems and personalized reminders
 - 📱 Responsive design for seamless mobile experience
 - ❤️ Privacy-first architecture and user experience
+
+## 🌱 Currently Learning
+- TypeScript for stronger type safety
+- Next.js for enhanced React applications
+- Advanced data visualization techniques
+- Cloud services and deployment strategies
 
 ## 💻 Technical Skills
 
@@ -34,24 +40,20 @@ I'm developing [Discloser](https://github.com/nameisbri/discloser), a platform t
 ## 📂 Featured Projects
 
 ### [Discloser](https://github.com/nameisbri/discloser)
-A full-stack health information management platform with OCR extraction from medical documents, risk-based testing reminders, and private sharing capabilities.
+A full-stack information management platform with OCR extraction capabilities, personalized notification systems, and secure sharing features.
 
 ### [Animal Trivia](https://github.com/nameisbri/animal-trivia)
 Interactive educational quiz application with dynamic scoring system, developed in 24 hours during BrainStation Hackathon.
 
-## 🌱 Currently Learning
-- TypeScript for stronger type safety
-- Next.js for enhanced React applications
-- Advanced data visualization techniques for health metrics
-
 ## 🔍 Looking For
-- Remote/hybrid opportunities in health tech
+- Remote/hybrid opportunities in tech
 - Collaborative teams focused on meaningful impact
-- Projects that balance technical innovation with human-centered design
+- Projects that balance technical innovation with user-centered design
+- Opportunities to grow as a full-stack developer
 
 ## 📫 Get in Touch
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabcsb)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gcdbarreira@gmail.com)
 
 ---
-*Currently available for full-stack developer roles in health tech and related fields.*
+*Currently available for full-stack developer opportunities. Open to roles across various industries where I can leverage my technical skills and content background.*
