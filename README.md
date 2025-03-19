@@ -1,33 +1,20 @@
-# Hello, I'm Gabriela! 👋
+# Hello, I'm Gabriela! 
 
-## 💫 About Me
 Full-stack software developer with a unique journey blending 8 years of marketing experience with technical expertise. I create user-centric applications that bridge technology and human experience. Recently graduated from BrainStation's Software Engineering program, I'm passionate about building meaningful solutions that make a real-world impact.
 
-🌐 **[Check out my new portfolio website](https://gcsb.me)**
+[Check out my new portfolio website](https://gcsb.me)
 
-## 🚀 Current Projects
+## Current Projects
 
-### [AstroReflect](https://github.com/nameisbri/astroreflect-frontend)
-A personal astrology transit journal application that empowers users to:
-- 📅 Track astrological transits in real-time
-- 📝 Record and reflect on personal experiences
-- 🔍 Integrate Swiss Ephemeris for precise astronomical calculations
-- 💻 Built with React, TypeScript, Node.js, and Express
+Discloser: A secure health information management platform with OCR document extraction, private data sharing, and personalized health tracking.
 
-### [Discloser](https://github.com/nameisbri/discloser)
-A secure health information management platform with:
-- 🔒 OCR document extraction
-- 📊 Private data sharing
-- 🔔 Personalized health tracking
-- 🏆 BrainStation Capstone Project
+AstroReflect: A personal astrology transit journal application integrating React, TypeScript, Node.js, and the Swiss Ephemeris library for precise astronomical calculations and personal reflection tracking.
 
-## 🌱 Currently Learning
-- Advanced TypeScript patterns
-- Advanced React Hooks
-- Comprehensive testing strategies
-- Cloud deployment techniques
+## Currently Learning
 
-## 💻 Technical Skills
+Advanced TypeScript patterns, advanced React Hooks, comprehensive testing strategies, and cloud deployment techniques.
+
+## Technical Skills
 
 ### Languages & Frameworks
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -47,16 +34,19 @@ A secure health information management platform with:
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-## 🔍 Professional Approach
-- 🚀 Agile methodologies
-- 🤝 Cross-functional collaboration
-- 📈 Data-driven decision making
-- 🌈 Inclusive, user-centered design
+## Open Source Contributions and Technical Writing
 
-## 📫 Connect With Me
+I'm committed to growing the tech community through knowledge sharing and collaborative development. My approach focuses on:
+
+Exploring emerging technologies and documenting my learning journey
+Contributing to open-source projects that solve real-world problems
+Writing technical blogs and tutorials that demystify complex coding concepts
+Mentoring aspiring developers and sharing insights from my unique career transition
+
+## Connect With Me
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=react&logoColor=white)](https://gcsb.me)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabcsb)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gcdbarreira@gmail.com)
 
 ---
-*Creating technology that feels human, one line of code at a time.*
+Creating technology that feels human, one line of code at a time.
