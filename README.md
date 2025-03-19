@@ -34,14 +34,17 @@ Advanced TypeScript patterns, advanced React Hooks, comprehensive testing strate
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-## Open Source Contributions and Technical Writing
+## Career Goals and Opportunities
 
-I'm committed to growing the tech community through knowledge sharing and collaborative development. My approach focuses on:
+I'm actively seeking full-stack developer roles, with a particular interest in health tech and organizations that value innovative, user-centric solutions. My ideal work environment combines technical challenge with meaningful impact, offering opportunities for remote or hybrid work.
 
-Exploring emerging technologies and documenting my learning journey
-Contributing to open-source projects that solve real-world problems
-Writing technical blogs and tutorials that demystify complex coding concepts
-Mentoring aspiring developers and sharing insights from my unique career transition
+Looking to join a team that values:
+- Collaborative problem-solving
+- Continuous learning and skill development
+- Innovative approaches to technology
+- Meaningful projects with real-world applications
+
+Strengths I bring include rapid skill acquisition, cross-functional communication, and a unique perspective from my marketing background that allows me to bridge technical implementation with user experience.
 
 ## Connect With Me
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=react&logoColor=white)](https://gcsb.me)
