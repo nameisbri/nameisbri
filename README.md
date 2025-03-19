@@ -7,7 +7,7 @@ Full-stack software developer with a unique journey blending 8 years of marketin
 
 ## 🚀 Current Projects
 
-### [AstroReflect](https://github.com/nameisbri/astroreflect)
+### [AstroReflect](https://github.com/nameisbri/astroreflect-frontend)
 A personal astrology transit journal application that empowers users to:
 - 📅 Track astrological transits in real-time
 - 📝 Record and reflect on personal experiences
