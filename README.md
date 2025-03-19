@@ -9,21 +9,21 @@ Full-stack software developer with a unique journey blending 8 years of marketin
 
 ### [AstroReflect](https://github.com/nameisbri/astroreflect-frontend)
 A personal astrology transit journal application that empowers users to:
-- 📅 Track astrological transits in real-time
-- 📝 Record and reflect on personal experiences
-- 🔍 Integrate Swiss Ephemeris for precise astronomical calculations
-- 💻 Built with React, TypeScript, Node.js, and Express
+📅 Track astrological transits in real-time
+📝 Record and reflect on personal experiences
+🔍 Integrate Swiss Ephemeris for precise astronomical calculations
+💻 Built with React, TypeScript, Node.js, and Express
 
 ### [Discloser](https://github.com/nameisbri/discloser)
 A secure health information management platform with:
-- 🔒 OCR document extraction
-- 📊 Private data sharing
-- 🔔 Personalized health tracking
-- 🏆 BrainStation Capstone Project
+🔒 OCR document extraction
+📊 Private data sharing
+🔔 Personalized health tracking
+🏆 BrainStation Capstone Project
 
 ## 🌱 Currently Learning
 - Advanced TypeScript patterns
-- Next.js for enhanced React applications
+- Advanced React Hooks
 - Comprehensive testing strategies
 - Cloud deployment techniques
 
@@ -48,10 +48,10 @@ A secure health information management platform with:
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ## 🔍 Professional Approach
-- 🚀 Agile methodologies
-- 🤝 Cross-functional collaboration
-- 📈 Data-driven decision making
-- 🌈 Inclusive, user-centered design
+🚀 Agile methodologies
+🤝 Cross-functional collaboration
+📈 Data-driven decision making
+🌈 Inclusive, user-centered design
 
 ## 📫 Connect With Me
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=react&logoColor=white)](https://gcsb.me)
