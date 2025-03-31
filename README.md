@@ -1,6 +1,6 @@
 # Hello, I'm Gabriela! 👋
 
-I create user-centric applications that bridge technology and human experience, combining my software engineering skills with 8+ years of marketing background. Recently graduated from BrainStation's Software Engineering program, I build meaningful solutions that make a real-world impact.
+I create user-centric applications that bridge technology and human experience, combining my software engineering skills with 8+ years of marketing background. Currently working on development projects at Precision Nutrition while expanding my technical skills.
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio_Website-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://gcsb.me)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabcsb)
