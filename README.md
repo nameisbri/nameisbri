@@ -1,24 +1,24 @@
 # Hello, I'm Gabriela! 👋
 
-I create user-centric applications that bridge technology and human experience, combining my software engineering skills with 8+ years of marketing background. Currently working on development projects at Precision Nutrition while expanding my technical skills.
+I create user-centric applications that bridge technology and human experience. Currently working on React application development while contributing to open source projects. My unique background combines software engineering skills with 8+ years of marketing expertise.
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio_Website-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://gcsb.me)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabcsb)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gcdbarreira@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriela@gcsb.me)
 
-## 🚀 Recent Projects
+## 🚀 What I'm Working On
 
-### [Portfolio Website](https://gcsb.me) | [Repo](https://github.com/nameisbri/portfolio)
-A modern, responsive developer portfolio built with **TypeScript**, React, and SCSS with a focus on user experience and accessibility. Features interactive skill visualizations, dynamic theme switching, and optimized performance.
+### Professional Work
+- Leading a calculator application rebuild from Angular to React
+- Implementing responsive design principles and optimizing web performance
+- Developing custom CMS solutions and technical SEO strategies
+- Collaborating in an Agile environment using Jira and Git workflows
 
-### [Discloser](https://github.com/nameisbri/discloser)
-A secure health information management platform with OCR document extraction, private data sharing, and personalized health tracking. Built with React, Node.js, Express, and MySQL.
-
-### [AI Business Consultant](https://github.com/nameisbri/ip-team-2)
-An interactive application developed during a Microsoft x BrainStation 24-hour hackathon that helps small businesses integrate AI into their operations with cost analysis and personalized recommendations.
-
-### [InStock Inventory System](https://drive.google.com/file/d/17weBeLemqsBzaZrso3jCTzCa9-Ae4idM/view?usp=sharing)
-A full-stack inventory management application built for a Fortune 500 client simulation. Addresses scalability with warehouse management and inventory tracking across multiple locations.
+### Open Source & Side Projects
+- Contributing to [Strapi](https://github.com/strapi/strapi), an open source headless CMS
+- Building [Discloser](https://github.com/nameisbri/discloser), a secure information platform
+- Maintaining my [TypeScript portfolio](https://gcsb.me) with interactive visualizations
+- Implementing UI component libraries with accessibility best practices
 
 ## 💻 Tech Stack
 
@@ -32,6 +32,7 @@ A full-stack inventory management application built for a Fortune 500 client sim
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/-Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 
 ### Backend & Database
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -45,20 +46,20 @@ A full-stack inventory management application built for a Fortune 500 client sim
 ![Agile](https://img.shields.io/badge/-Agile-147EFB?style=flat-square&logo=jira&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-## 📚 Currently Learning
-- Advanced TypeScript patterns
-- React hooks and advanced state management
-- Comprehensive testing strategies
-- Cloud services and deployment techniques
+## 📊 GitHub Stats
 
-## 💼 Seeking Opportunities
-I'm actively pursuing **remote/hybrid full-stack developer roles**, with particular interest in health tech and organizations creating user-centered solutions with meaningful impact.
+![Gabriela's GitHub stats](https://github-readme-stats.vercel.app/api?username=nameisbri&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-### What I Bring to Teams:
-- Technical expertise paired with strong user experience focus
-- Quick skill acquisition and adaptability 
-- Cross-functional communication from my marketing background
-- Passion for building accessible, impactful applications
+## 🔍 Currently Seeking Opportunities
+
+I'm actively looking for **Junior Developer roles** where I can contribute my React and full-stack development skills while continuing to grow technically. Open to various industries and challenges with particular interest in:
+
+- Organizations building impactful digital products
+- Teams that value diverse perspectives and backgrounds
+- Collaborative environments with mentorship opportunities
+- Remote or hybrid work settings
+
+Feel free to reach out if you know of opportunities that might be a good fit!
 
 ---
 
